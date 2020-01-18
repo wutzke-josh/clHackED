@@ -1,30 +1,29 @@
 #include <iostream>
+#include<limits>
 using namespace std;
 int phase = 0;
 void setup(){
     cout << "Welcome to the Command Line HackED terminal Hacking game \n" ;
     cout << "Please press 1 to Continue \n"; 
 }
-void phase1(){
-
-}
-void loop(){
+void inputRecognition(){
     if(phase == 0){
-        int input = 0;
+        char input[1000] = {};
         cin >> input;
-        if(input == 1){
-            phase = 1;
+        if(input[0] == '1'){
+            cout << "Begin the Game!";
         }else{
             cin.clear();
+            cin.ignore(numeric_limits<streamsize>::max(), '\n');
             cout << "Invalid Input: Please try again \n";
-            return 0;
         }
     }
 }
 
+
 int main(){
     setup();
-    while(true){
+    while(phase == 0){
         loop();
     }
     return 0;
