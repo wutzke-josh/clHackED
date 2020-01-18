@@ -9,7 +9,7 @@ int main() {
 
 	cin >> integer;
 
-	if(int == 69) {
+	if(integer == 69) {
 		cout << "nice.";
 	} 
 	else {
