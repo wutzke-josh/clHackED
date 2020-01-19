@@ -1,0 +1,61 @@
+
+Hohoho!!!! Merry Christmas!!! It's the holiday season and you just can't wait to see what you got for christmas! However, at the mature age of 13, you're starting to think that santa might not be real... So as the super sleuth you are, you've decided to go into your dad's computer to see if you can find what they got for you. Maybe it'll be what 'Santa' got for you
+
+~/paul
+	*Downloads
+		*BankStatement_2019-12-16.pdf
+		*ewrsdt5gyjubhnmcgfrdtijo.png
+		*virus.pdf.exe
+		*Intuit_TurboTax_installer_U13-012-22.exe
+		*PHviewer.exe
+		*MinecraftMods
+	*Documents
+		*New folder
+			*New folder
+				*New folder
+					*New folder
+						*New folder
+							*New folder
+								*New folder.txt
+									-Siri, new folder please
+		*New folder (2)
+		*New folder (3)
+		*New folder (4)
+		*New folder (5)
+	*Photos
+		*Mexico
+			*1758.jpg
+			*1759.jpg
+			*1760.jpg
+			*1761.jpg
+			*1762.jpg
+			*1763.jpg
+			*1738.jpg
+			*1758.jpg
+			*1758.jpg
+			*1758.jpg
+	*Desktop
+		*resumes
+		*work stuff
+		*reminders.txt
+			-use passManager to see passwords
+			-passwords are vertical!
+		*Bobby
+			*Christmas Wishlist.txt
+		*Real life
+			*paul_t4_2019.pdf
+			*paula_t4_2019.pdf
+			*January_mortgage
+
+Who's working on what?
+	-John
+		-Folders and such
+	-Justin
+		-Command Parsing
+	-Marko
+		-Title Screen
+	-
+
+
+Later ideas:
+	-Saving system
